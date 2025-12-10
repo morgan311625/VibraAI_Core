@@ -71,3 +71,8 @@ I can provide:
 - an evaluation binary,
 - a short technical sheet,
 - and a minimal C example for a typical Cortex-M platform.
+
+
+## Community & Support
+Join the Discord server for discussions, support and early-access:
+https://discord.gg/FrcTc6vv4M
